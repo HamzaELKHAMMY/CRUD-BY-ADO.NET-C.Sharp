@@ -13,7 +13,7 @@ namespace TP3
 {
     public partial class Form1 : Form
     {
-        OleDbConnection conn = new OleDbConnection(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\elkhammy\source\repos\TP3\BasseTP3.mdb");
+        OleDbConnection conn = new OleDbConnection(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\elkhammy\source\repos\TP3\TP3\BasseTP3.mdb");
         OleDbDataAdapter Da;
         DataTable Dt = new DataTable();
         OleDbCommand cmd = new OleDbCommand();
