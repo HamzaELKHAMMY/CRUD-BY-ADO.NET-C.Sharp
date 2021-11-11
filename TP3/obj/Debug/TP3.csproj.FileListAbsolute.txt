@@ -1,0 +1,10 @@
+C:\Users\elkhammy\source\repos\TP3\TP3\TP3\obj\Debug\TP3.csproj.AssemblyReference.cache
+C:\Users\elkhammy\source\repos\TP3\TP3\TP3\obj\Debug\TP3.Form1.resources
+C:\Users\elkhammy\source\repos\TP3\TP3\TP3\obj\Debug\TP3.Properties.Resources.resources
+C:\Users\elkhammy\source\repos\TP3\TP3\TP3\obj\Debug\TP3.csproj.GenerateResource.cache
+C:\Users\elkhammy\source\repos\TP3\TP3\TP3\obj\Debug\TP3.csproj.CoreCompileInputs.cache
+C:\Users\elkhammy\source\repos\TP3\TP3\TP3\bin\Debug\TP3.exe.config
+C:\Users\elkhammy\source\repos\TP3\TP3\TP3\bin\Debug\TP3.exe
+C:\Users\elkhammy\source\repos\TP3\TP3\TP3\bin\Debug\TP3.pdb
+C:\Users\elkhammy\source\repos\TP3\TP3\TP3\obj\Debug\TP3.exe
+C:\Users\elkhammy\source\repos\TP3\TP3\TP3\obj\Debug\TP3.pdb
